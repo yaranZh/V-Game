@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"一把普通的木剑。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"木剑","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"一把斧子，看起来有些破烂。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"斧子","note":"","params":[0,0,10,0,0,0,0,0],"price":300,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":6,"description":"一把精致的铁剑。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"铁剑","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":2}
+]
